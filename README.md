@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Watch it live](https://ping-single-column-coming-soon-page-six-alpha.vercel.app/)
 
 ## My process
 
@@ -52,4 +52,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@HugoMoncada](https://www.frontendmentor.io/profile/HugoMoncada)
